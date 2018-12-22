@@ -10,7 +10,6 @@
 
 
 package com.example.honeysingh.myapplication;
-import android.annotation.TargetApi;
 import android.os.Build;
 import android.support.annotation.RequiresApi;
 
